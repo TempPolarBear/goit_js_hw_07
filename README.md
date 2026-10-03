@@ -4,10 +4,10 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Поиск и обработка DOM-элементов
-- Создание галереи изображений
-- Обработка ввода и отправки формы
-- Генерация случайного цвета
+- Selecting and processing DOM elements
+- Creating an image gallery
+- Handling input and form submission
+- Generating a random color
 
 ## Technologies
 
